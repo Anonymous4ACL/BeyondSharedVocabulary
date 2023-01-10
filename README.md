@@ -1,3 +1,3 @@
 # Beyond Shared Vocabulary
 
-The code will be shared soon.
+The codebase for anonymous submission for ACL2023. The code will be shared soon.
